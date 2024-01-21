@@ -32,7 +32,7 @@ python nim_qlearning.py
 The Q-learner's performance is evaluated against both random players and a deterministic guru. The win rates from these simulations are plotted to visualize the AI's learning curve.
 
 - Winning Starting Position: Shows the AI's increasing proficiency when beginning with an advantageous position.
-- Losing Starting Position: Demonstrates the AI's capability to gradually recover and win from a less favorable start.
+- Losing Starting Position: Demonstrates the AI's capability to slowly recover and win from a less favorable start.
 
 
 ![Qlearner Performance Comparison in Winning Starting Position](/mnt/data/Screenshot from 2024-01-20 21-32-28.png)
