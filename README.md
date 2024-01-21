@@ -35,9 +35,9 @@ The Q-learner's performance is evaluated against both random players and a deter
 - Losing Starting Position: Demonstrates the AI's capability to slowly recover and win from a less favorable start.
 
 
-![Qlearner Performance Comparison in Winning Starting Position](https://github.com/malsuwailm/q-learning-strategy-optimization/blob/main/plots/winning_position.png)
+![Qlearner Performance Comparison in Winning Starting Position](https://github.com/malsuwailm/q-learning-strategy-optimization/blob/main/plots/winning.png)
 
-![Qlearner Performance Comparison in Losing Starting Position](https://github.com/malsuwailm/q-learning-strategy-optimization/blob/main/plots/losing_position.png)
+![Qlearner Performance Comparison in Losing Starting Position](https://github.com/malsuwailm/q-learning-strategy-optimization/blob/main/plots/losing.png)
 
 
 ## Q-Table Logging
