@@ -1,4 +1,4 @@
-# Neural Tactics and Game Theory: Advancing Nim with AI
+# Neural Tactics: Advancing Nim with AI
 
 This project delves into the realm of data science and artificial intelligence to tackle the strategic optimization of the Nim game using Q-learning. Through iterative learning and data-driven decision-making, the initiative aims to enhance the gameplay of an AI agent. It encapsulates the core data science process: collecting game state data, learning from this data through reinforcement learning, and validating the strategy through extensive simulation and statistical analysis.
 
